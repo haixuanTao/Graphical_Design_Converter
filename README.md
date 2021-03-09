@@ -7,5 +7,5 @@
 - Add the link you want
 
 - Then run the jupyter notebook
-- Go to: https://observablehq.com/@haixuantao/d3-sankey-diagram and modify the source
+- Go to: https://observablehq.com/@haixuantao/d3-sankey-diagram and modify the source url
 - Normally it should work
